@@ -1,0 +1,1303 @@
+repo_name: vladdou/vue-crud-x
+report_id: 8de8554154ae3f4d5efb74ae30e73df1
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-26T05:35:58+00:00'
+requested_by: ais-one
+provider: github
+branch: master
+detected_tools_count: 88
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/vladdou/vue-crud-x
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-10-15 00:36:22.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: Nuxt.js
+  description: The Vue.js Framework
+  website_url: https://nuxtjs.org
+  version: 2.8.1
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/7304/23360933.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-ssr/package.json
+  detection_source: example-ssr/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-02-16 14:26:28.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 6.5.3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-09-09 21:07:25.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-09-09 21:07:25.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 2.6.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-09-09 21:07:25.000000000 Z
+- name: Vuetify
+  description: Material Component Framework for VueJS 2
+  website_url: https://vuetifyjs.com/
+  version: 2.0.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/6163/PzNbCwXH.jpg
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: vuex
+  description: Centralized State Management for Vue.js.
+  website_url: https://vuex.vuejs.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/6705/6128107.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-05-25 08:29:11.000000000 Z
+- name: Cron
+  description: Background-only application
+  website_url: https://directory.fsf.org/wiki/Cron
+  version: 1.7.1
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Background Processing
+  image_url: https://img.stackshare.io/service/2416/default_274ed9bcc98502018f007cfcd8c09f3514d3d319.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-05-25 08:29:11.000000000 Z
+- name: Firebase
+  description: The Realtime App Platform
+  website_url: https://firebase.google.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: GraphQL
+  description: A data query language and runtime
+  website_url: http://graphql.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Query Languages
+  image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  version: 3.3.2
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  version: 2.17.1
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-10-15 00:36:22.000000000 Z
+- name: SQLite
+  description: A software library that implements a self-contained, serverless, zero-configuration,
+    transactional SQL database engine
+  website_url: http://www.sqlite.org/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-10-15 00:36:22.000000000 Z
+- name: ws
+  description: A Node.js WebSocket library
+  website_url: https://github.com/websockets/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-10-15 00:36:22.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/babel.config.js
+  detection_source: example-spa/babel.config.js
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-07-04 22:45:31.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-10-15 00:36:22.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-05-25 08:29:11.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-10-15 00:36:22.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x
+  detection_source: Repo Metadata
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-07-24 03:38:49.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 1.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-ssr/package.json
+  detection_source: example-ssr/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-ssr/package.json
+  detection_source: example-ssr/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-09-09 21:07:25.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 1.19.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-ssr/package.json
+  detection_source: example-ssr/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-09-09 21:07:25.000000000 Z
+- name: Apollo
+  description: GraphQL server for Express, Connect, Hapi, Koa and more
+  website_url: https://www.apollographql.com/
+  version: 2.9.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/5508/CyUH653y.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-10-15 00:36:22.000000000 Z
+- name: Google reCaptcha
+  description: A free service that protects your website from spam and abuse
+  website_url: https://www.google.com/recaptcha/intro/index.html
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Security
+  image_url: https://img.stackshare.io/service/4482/dVHQiE0t_400x400.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-07-24 03:38:49.000000000 Z
+- name: Passport
+  description: Simple, unobtrusive authentication for Node.js
+  website_url: http://passportjs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://ucarecdn.com/8f3cac0e-b146-4f0f-878c-680a6671d804/
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-07-24 03:38:49.000000000 Z
+- name: Winston
+  description: a multi-transport async logging library for node.js
+  website_url: https://github.com/winstonjs/winston
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6668/9682013.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-05-25 08:29:11.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.18.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-06-20 00:18:43.000000000 Z
+- name: date-fns
+  description: Modern JavaScript date utility library
+  website_url: https://date-fns.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-10-15 00:36:22.000000000 Z
+- name: lit-Element
+  description: Libraries, tools, and standards. Helping to build a better web. Part
+    of Google Chrome.
+  website_url: https://lit-element.polymer-project.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/11123/RmlG_bbW_normal.jpg
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-07-27 23:50:50.000000000 Z
+- name: qrcode
+  website_url: http://goqr.me/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8580/no-img-open-source.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-07-24 03:38:49.000000000 Z
+- name: knex
+  description: A batteries-included SQL query &amp; schema builder for Postgres
+  package_url: https://www.npmjs.com/knex
+  version: 0.19.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16491/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+  vulnerabilities:
+  - name: SQL Injection in knex
+    cve_id: CVE-2019-10757
+    cve_url: https://github.com/advisories/GHSA-58v4-qwx5-7f59
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 0.19.5
+  - name: Knex.js has a limited SQL injection vulnerability
+    cve_id: CVE-2016-20018
+    cve_url: https://github.com/advisories/GHSA-4jv9-3563-23j3
+    detected_date: Dec 21
+    severity: high
+    first_patched: 2.4.0
+- name: apollo-server
+  description: Production ready GraphQL Server
+  package_url: https://www.npmjs.com/apollo-server
+  version: 2.9.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18230/default_2c3976088fc45d7746e80d08ccf312c0cbcccba7.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+  vulnerabilities:
+  - name: Cross-site Scripting Vulnerability in GraphQL Playground (distributed by
+      Apollo Server)
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-qm7x-rc44-rrqw
+    detected_date: Jan 18
+    severity: high
+    first_patched: 2.25.3
+  - name: The graphql-upload library included in Apollo Server 2 is vulnerable to
+      CSRF mutations
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-2p3c-p3qw-69r4
+    detected_date: Oct 13
+    severity: moderate
+    first_patched: 2.25.4
+  - name: Introspection in schema validation in Apollo Server
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-w42g-7vfc-xf37
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.14.2
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+  - name: Express.js Open Redirect in malformed URLs
+    cve_id: CVE-2024-29041
+    cve_url: https://github.com/advisories/GHSA-rv95-896h-c2vc
+    detected_date: Mar 26
+    severity: moderate
+    first_patched: 4.19.2
+- name: jsonwebtoken
+  description: JSON Web Token implementation
+  package_url: https://www.npmjs.com/jsonwebtoken
+  version: 8.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16155/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-03-20 22:25:18.000000000 Z
+  vulnerabilities:
+  - name: 'jsonwebtoken unrestricted key type could lead to legacy keys usage '
+    cve_id: CVE-2022-23539
+    cve_url: https://github.com/advisories/GHSA-8cf7-32gw-wr33
+    detected_date: Dec 22
+    severity: high
+    first_patched: 9.0.0
+  - name: jsonwebtoken has insecure input validation in jwt.verify function
+    cve_id: CVE-2022-23529
+    cve_url: https://github.com/advisories/GHSA-27h2-hvpr-p74q
+    detected_date: Dec 22
+    severity: high
+    first_patched: 9.0.0
+  - name: jsonwebtoken vulnerable to signature validation bypass due to insecure default
+      algorithm in jwt.verify()
+    cve_id: CVE-2022-23540
+    cve_url: https://github.com/advisories/GHSA-qwph-4952-7xr6
+    detected_date: Dec 22
+    severity: moderate
+    first_patched: 9.0.0
+  - name: jsonwebtoken's insecure implementation of key retrieval function could lead
+      to Forgeable Public/Private Tokens from RSA to HMAC
+    cve_id: CVE-2022-23541
+    cve_url: https://github.com/advisories/GHSA-hjrf-2m68-5959
+    detected_date: Dec 22
+    severity: moderate
+    first_patched: 9.0.0
+- name: apollo-server-express
+  description: Production-ready Node.js GraphQL server for Express and Connect
+  package_url: https://www.npmjs.com/apollo-server-express
+  version: 2.9.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17501/default_1d2902e8f9c84259702671591379572493b9009b.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+  vulnerabilities:
+  - name: Introspection in schema validation in Apollo Server
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-w42g-7vfc-xf37
+    detected_date: Jan 28
+    severity: moderate
+    first_patched: 2.14.2
+- name: node-sass
+  description: Wrapper around libsass
+  package_url: https://www.npmjs.com/node-sass
+  version: 4.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-08-19 07:40:29.000000000 Z
+  vulnerabilities:
+  - name: Improper Certificate Validation in node-sass
+    cve_id: CVE-2020-24025
+    cve_url: https://github.com/advisories/GHSA-r8f7-9pfq-mjmv
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 7.0.0
+  - name: Denial of Service in node-sass
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-9v62-24cr-58cx
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: vue-template-compiler
+  description: Template compiler for Vue 2.0
+  package_url: https://www.npmjs.com/vue-template-compiler
+  version: 2.6.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+  vulnerabilities:
+  - name: vue-template-compiler vulnerable to client-side Cross-Site Scripting (XSS)
+    cve_id: CVE-2024-6783
+    cve_url: https://github.com/advisories/GHSA-g3ch-rx76-35fx
+    detected_date: Jul 24
+    severity: moderate
+    first_patched: 3.0.0
+- name: "@vue/cli-plugin-babel"
+  description: Babel plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-babel
+  version: 3.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16006/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: "@vue/cli-plugin-eslint"
+  description: Eslint plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-eslint
+  version: 3.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16035/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: "@vue/cli-service"
+  description: Local service for vue-cli projects
+  package_url: https://www.npmjs.com/@vue/cli-service
+  version: 3.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15990/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: "@vue/eslint-config-standard"
+  description: Eslint-config-standard for Vue CLI
+  package_url: https://www.npmjs.com/@vue/eslint-config-standard
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16540/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: apollo-cache-inmemory
+  description: Core abstract of Caching layer for Apollo Client
+  package_url: https://www.npmjs.com/apollo-cache-inmemory
+  version: 1.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16956/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: apollo-client
+  description: A simple yet functional GraphQL client
+  package_url: https://www.npmjs.com/apollo-client
+  version: 2.6.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16731/default_9b37c4b9479b5cf61478ac117da829ccdd0ed0a0.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: apollo-link
+  description: Flexible, lightweight transport layer for GraphQL
+  package_url: https://www.npmjs.com/apollo-link
+  version: 1.2.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17085/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: apollo-link-http
+  description: HTTP transport layer for GraphQL
+  package_url: https://www.npmjs.com/apollo-link-http
+  version: 1.5.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17167/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: apollo-utilities
+  description: Utilities for working with GraphQL ASTs
+  package_url: https://www.npmjs.com/apollo-utilities
+  version: 1.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18734/default_694c15b8322bafbc7e0c7ff013cac29527ff6344.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 10.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: bcryptjs
+  description: Optimized bcrypt in plain JavaScript with zero dependencies
+  package_url: https://www.npmjs.com/bcryptjs
+  version: 2.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16857/default_627f05e6a07ce29fc9f119417270f38e8aa5c5e2.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-10-15 00:36:22.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-05-25 08:29:11.000000000 Z
+- name: chai-http
+  description: Extend Chai Assertion library with tests for http apis
+  package_url: https://www.npmjs.com/chai-http
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16767/default_aa2369d4412b5a2c6812de3c666299e0ccd25ea2.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-05-25 08:29:11.000000000 Z
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 4.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-08-19 07:40:29.000000000 Z
+- name: connect-history-api-fallback
+  description: Provides a fallback for non-existing directories so that the HTML 5
+    history API can be used
+  package_url: https://www.npmjs.com/connect-history-api-fallback
+  version: 1.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16214/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-05-25 08:29:11.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 2.6.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: cors
+  description: Node.js CORS middleware
+  package_url: https://www.npmjs.com/cors
+  version: 2.8.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-10-15 00:36:22.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-ssr/package.json
+  detection_source: example-ssr/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: deepmerge
+  description: A library for deep
+  package_url: https://www.npmjs.com/deepmerge
+  version: 3.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16179/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-07-24 03:38:49.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-ssr/package.json
+  detection_source: example-ssr/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: eslint-loader
+  description: ESlint loader for webpack
+  package_url: https://www.npmjs.com/eslint-loader
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15889/default_724d5bc657ec09174564f19f2a5d26098549124a.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-ssr/package.json
+  detection_source: example-ssr/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-ssr/package.json
+  detection_source: example-ssr/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: eslint-plugin-promise
+  description: Enforce best practices for JavaScript promises
+  package_url: https://www.npmjs.com/eslint-plugin-promise
+  version: 4.2.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: eslint-plugin-vue
+  description: Official ESLint plugin for Vue.js
+  package_url: https://www.npmjs.com/eslint-plugin-vue
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: fibers
+  description: Cooperative multi-tasking for Javascript
+  package_url: https://www.npmjs.com/fibers
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17132/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-07-24 03:38:49.000000000 Z
+- name: firebase-admin
+  description: Firebase admin SDK for Node.js
+  package_url: https://www.npmjs.com/firebase-admin
+  version: 8.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17151/default_21a9522c66101ebad0e63609af74acb35fe29a0a.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: graphql-tag
+  description: A JavaScript template literal tag that parses GraphQL queries
+  package_url: https://www.npmjs.com/graphql-tag
+  version: 2.10.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16631/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: http-server
+  description: A simple zero-configuration command-line http server
+  package_url: https://www.npmjs.com/http-server
+  version: 0.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16118/default_f905d9556a0330de59b502a579c1f5c4be2b48bf.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-ssr/package.json
+  detection_source: example-ssr/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-07-24 03:38:49.000000000 Z
+- name: ioredis
+  description: A robust
+  package_url: https://www.npmjs.com/ioredis
+  version: 4.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16522/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-08-19 07:40:29.000000000 Z
+- name: json2csv
+  description: Convert JSON to CSV
+  package_url: https://www.npmjs.com/json2csv
+  version: 4.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17719/default_9693d58c90f5c726ee648423687212d2a94266da.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-08-19 07:40:29.000000000 Z
+- name: jwt-decode
+  description: Decode JWT tokens, mostly useful for browser applications
+  package_url: https://www.npmjs.com/jwt-decode
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17395/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-10-15 00:36:22.000000000 Z
+- name: lit-element
+  description: A simple base class for creating fast
+  package_url: https://www.npmjs.com/lit-element
+  version: 2.2.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16775/default_c6eddffbed005d007ab4638fbcac90e4b79576b2.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-07-27 23:50:50.000000000 Z
+- name: morgan
+  description: HTTP request logger middleware for node.js
+  package_url: https://www.npmjs.com/morgan
+  version: 1.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16097/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-05-25 08:29:11.000000000 Z
+- name: multer
+  description: Middleware for handling `multipart/form-data`
+  package_url: https://www.npmjs.com/multer
+  version: 1.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16421/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-07-24 03:38:49.000000000 Z
+- name: nyc
+  description: The Istanbul command line interface
+  package_url: https://www.npmjs.com/nyc
+  version: 14.1.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15837/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-10-15 00:36:22.000000000 Z
+- name: qrcode
+  description: QRCode / 2d Barcode api with both server side and client side support
+    using canvas
+  package_url: https://www.npmjs.com/qrcode
+  version: 1.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17638/default_9126b5a628d81e3d41c9b1190587ab1aec9165c5.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-07-24 03:38:49.000000000 Z
+- name: sass-loader
+  description: Sass loader for webpack
+  package_url: https://www.npmjs.com/sass-loader
+  version: 7.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-08-19 07:40:29.000000000 Z
+- name: sqlite3
+  description: Asynchronous, non-blocking SQLite3 bindings
+  package_url: https://www.npmjs.com/sqlite3
+  version: 4.1.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16285/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-08-19 07:40:29.000000000 Z
+- name: subscriptions-transport-ws
+  description: A websocket transport for GraphQL subscriptions
+  package_url: https://www.npmjs.com/subscriptions-transport-ws
+  version: 0.9.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17948/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-07-24 03:38:49.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 3.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-10-15 00:36:22.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 2.6.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-09-09 21:07:25.000000000 Z
+- name: vue-i18n
+  description: Internationalization plugin for Vue.js
+  package_url: https://www.npmjs.com/vue-i18n
+  version: 8.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16963/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: vue-router
+  description: Official router for Vue.js 2
+  package_url: https://www.npmjs.com/vue-router
+  version: 3.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: vuetify-loader
+  description: '&lt;p align="center"&gt; &lt;a href="https://www.patreon.com/kaelwd"&gt;
+    &lt;img src="https://c5.patreon.com/external/logo/become_a_patron_button.png"'
+  package_url: https://www.npmjs.com/vuetify-loader
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18444/default_31e3dc8ee5066945286d4e7345d470ac3863ee5a.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/example-spa/package.json
+  detection_source: example-spa/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-09-07 03:43:05.000000000 Z
+- name: winston
+  description: A logger for just about everything
+  package_url: https://www.npmjs.com/winston
+  version: 3.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16003/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2019-05-25 08:29:11.000000000 Z
+- name: yamljs
+  description: Standalone JavaScript YAML 1.2 Parser &amp; Encoder
+  package_url: https://www.npmjs.com/yamljs
+  version: 0.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16676/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/vladdou/vue-crud-x/blob/master/backend/package.json
+  detection_source: backend/package.json
+  last_updated_by: Aaron Gong
+  last_updated_on: 2018-10-15 00:36:22.000000000 Z
